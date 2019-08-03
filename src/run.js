@@ -1,4 +1,4 @@
-import { t15n } from "./translit";
+import { t15n } from "./transgript";
 const log = console.log
 
 let wordform = process.argv.slice(2)[0] // || 'ἀργυρῷ' // false

@@ -1,7 +1,7 @@
 {
   "name": "transgript",
   "version": "1.0.0",
-  "main": "dist/translit.js",
+  "main": "dist/trangript.js",
   "scripts": {
     "build": "babel src -d dist",
     "start": "npm run build && node dist/run"
