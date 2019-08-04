@@ -13,8 +13,6 @@ export function t15n (wf, type, opt) {
   if (type == 'gem') res = gematria(syms)
   else if (type == 'beta') res = beta(syms)
   else res = wictionary(syms)
-
-  log('translit:', wf, '-->', res)
   return res
 }
 
