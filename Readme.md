@@ -1,4 +1,4 @@
-# speckled-band.js
+# transgript.js
 
 
 transgript.js is a transliteration library for Ancient Greek. It supports Wictionary transliteration scheme. Shows transliteration or gematria, i.e. isopsephy
