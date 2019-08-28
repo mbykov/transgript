@@ -1,6 +1,6 @@
 {
   "name": "transgript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "description": "transgript shows transliteration (Wiktionary scheme), or gematria of an Ancient Greek string",
   "author": "Michael Bykov <michael.bykov@gmail.com>",
@@ -17,6 +17,7 @@
     "@babel/preset-env": "^7.3.1"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "orthos": "^0.6.3"
   }
 }

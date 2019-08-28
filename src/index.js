@@ -1,6 +1,7 @@
 import _ from 'lodash'
 import { accents, stresses, greek } from "./lib/data";
-import {oxia, comb, plain, strip} from '../../../greek/orthos'
+// import {oxia, comb, plain, strip} from '../../../greek/orthos'
+import {oxia, comb, plain, strip} from 'orthos'
 
 let strs = _.values(stresses)
 let dasia = accents.dasia
